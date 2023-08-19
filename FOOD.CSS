@@ -1,0 +1,22 @@
+div{
+    font-size: 30px;
+    border:1px solid;
+    background-image: url(image.jpg);
+    /* background-size: 850px;
+    background-repeat: no-repeat;
+   width: 300px;
+   margin-left: 750px;
+   margin-top: 250px; */
+  
+} 
+a:link{
+    color: black;
+}
+ol{
+    padding-bottom: 40px;
+}
+h1{
+    font-size: 20px;
+    text-decoration: underline;
+    /* text-shadow: 29px; */
+}
